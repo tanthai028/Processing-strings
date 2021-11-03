@@ -1,1 +1,2 @@
-chmod u+x script.sh
+run = "./script.sh main.c"
+language = "c" # optional
